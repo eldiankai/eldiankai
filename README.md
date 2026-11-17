@@ -39,5 +39,3 @@ I build practical tools and small projects with Python and JavaScript.
 </a>
 
 </div>
-
-<sub>Private contribution counts are included when enabled in GitHub contribution settings. Private repository details remain hidden.</sub>
