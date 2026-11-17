@@ -1,16 +1,12 @@
 <div align="center">
 
-<img src="https://files.catbox.moe/ykl5ws.jpg" width="160" alt="Nexie profile picture">
+<img src="https://raw.githubusercontent.com/eldiankai/eldiankai/main/assets/cat-banner.jpg" width="100%" alt="Pixel-art white cat with a question mark">
 
 # Nexie
 
 **Telegram bots · Web applications · APIs**
 
 I build practical tools and small projects with Python and JavaScript.
-
-<br>
-
-<img src="https://raw.githubusercontent.com/eldiankai/eldiankai/main/assets/profile.svg" width="100%" alt="Python, JavaScript, FastAPI — building Telegram bots">
 
 </div>
 
@@ -30,12 +26,8 @@ I build practical tools and small projects with Python and JavaScript.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=eldiankai&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=transparent&cache_seconds=86400" width="100%" alt="GitHub statistics including private contribution counts">
-
-<br>
-
-<a href="https://github.com/eldiankai">
-  <img src="https://img.shields.io/badge/View%20all%20contributions-GitHub-181717?style=for-the-badge&logo=github" alt="View GitHub contributions">
-</a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=eldiankai&theme=github-compact&hide_border=true&area=true" width="100%" alt="GitHub contribution activity graph">
 
 </div>
+
+<sub>Private contribution activity is visible only when enabled in GitHub contribution settings. Private repository details remain hidden.</sub>
