@@ -9,7 +9,7 @@ I build **Telegram bots** and web applications.
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TheJinWooSung/TheJinWooSung/main/assets/profile.svg" width="900" alt="Python JavaScript FastAPI">
+  <img src="https://raw.githubusercontent.com/eldiankai/eldiankai/main/assets/profile.svg" width="900" alt="Python JavaScript FastAPI">
 </p>
 
 ## About
@@ -27,10 +27,10 @@ Most of what I build revolves around **Telegram bots**, automation, APIs, and we
 ## GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheJinWooSung&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165" alt="GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheJinWooSung&layout=compact&hide_border=true&theme=transparent" height="165" alt="Top languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=eldiankai&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165" alt="GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eldiankai&layout=compact&hide_border=true&theme=transparent" height="165" alt="Top languages">
 </p>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/TheJinWooSung" alt="GitHub contribution activity">
+  <img src="https://ghchart.rshah.org/eldiankai" alt="GitHub contribution activity">
 </p>
