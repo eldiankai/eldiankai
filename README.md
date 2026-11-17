@@ -29,5 +29,3 @@ I build practical tools and small projects with Python and JavaScript.
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=eldiankai&theme=github-compact&hide_border=true&area=true" width="100%" alt="GitHub contribution activity graph">
 
 </div>
-
-<sub>Private contribution activity is visible only when enabled in GitHub contribution settings. Private repository details remain hidden.</sub>
